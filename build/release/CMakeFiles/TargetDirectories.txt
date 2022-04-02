@@ -1,0 +1,3 @@
+/Users/saleson/CLionProjects/jni-sources/build/release/CMakeFiles/rebuild_cache.dir
+/Users/saleson/CLionProjects/jni-sources/build/release/CMakeFiles/edit_cache.dir
+/Users/saleson/CLionProjects/jni-sources/build/release/CMakeFiles/jni_sources.dir

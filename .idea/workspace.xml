@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="jni_sources" targetName="jni_sources" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_DIR="build/debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" GENERATION_DIR="build/release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f56500c3-9180-431f-8295-2f023f48f24a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27EH9Tq71Bvy8qL3P0hfkh5kdEt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jni/jdk" />
+      <recent name="$PROJECT_DIR$/jni" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/jni/jdk" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jni_sources" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="jni_sources" TARGET_NAME="jni_sources" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f56500c3-9180-431f-8295-2f023f48f24a" name="Default Changelist" comment="" />
+      <created>1648878173645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648878173645</updated>
+      <workItem from="1648878175690" duration="280000" />
+      <workItem from="1648878644671" duration="7020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648888984313">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1648888984313" />
+    <state x="349" y="128" key="#jni_sources" timestamp="1648888993362">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="349" y="128" key="#jni_sources/0.0.1280.800@0.0.1280.800" timestamp="1648888993362" />
+    <state width="1238" height="398" key="GridCell.Tab.0.bottom" timestamp="1648891059500">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="398" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1648891059500" />
+    <state width="1238" height="398" key="GridCell.Tab.0.center" timestamp="1648891059499">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="398" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1648891059499" />
+    <state width="1238" height="398" key="GridCell.Tab.0.left" timestamp="1648891059495">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="398" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1648891059495" />
+    <state width="1238" height="398" key="GridCell.Tab.0.right" timestamp="1648891059500">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="398" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1648891059500" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1648890321423">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1648890321423" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1648889154973" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1648890321422">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1648890321422" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1648889154972" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1648890321421">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1648890321421" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1648889154971" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1648890321423">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1648890321423" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1648889154972" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1648884394367">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1648884394367" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/JNIDemo.c</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
