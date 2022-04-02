@@ -12,7 +12,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f56500c3-9180-431f-8295-2f023f48f24a" name="Default Changelist" comment="" />
+    <list default="true" id="f56500c3-9180-431f-8295-2f023f48f24a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="a5d3e41b-8834-4cf0-80d9-66f7b2cec749" name="Revert &quot;.&quot;" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +31,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="27EH9Tq71Bvy8qL3P0hfkh5kdEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -91,6 +106,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648888984313">
       <screen x="0" y="0" width="1280" height="800" />
@@ -100,6 +126,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="349" y="128" key="#jni_sources/0.0.1280.800@0.0.1280.800" timestamp="1648888993362" />
+    <state x="234" y="2" key="CommitChangelistDialog2" timestamp="1648892220610">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="234" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1648892220610" />
+    <state x="128" y="68" key="DiffContextDialog" timestamp="1648892217745">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="128" y="68" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1648892217745" />
     <state width="1238" height="398" key="GridCell.Tab.0.bottom" timestamp="1648891059500">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
